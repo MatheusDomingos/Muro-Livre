@@ -1,0 +1,6 @@
+{
+  "name": "Muro Livre",
+  "description": "A decentralized urban archive for documenting, mapping, and sharing street art, stencils, and graffiti captures.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
